@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "P.S II",
+  "base_artist": "浜崎あゆみ",
+  "createdAt": "2026-03-11T04:14:51.072379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "P.S II",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/01_P.S_II_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "P.S II",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/02_P.S_II_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "P.S II (LOVEppears / appears -20th Anniversary Edition-)",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/03_P.S_II_(LOVEppears___appears_-20th_Anniversary_Edition-)_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "P.S II",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_P.S_II_浜崎_あゆみ.txt"
+    }
+  ]
+}
